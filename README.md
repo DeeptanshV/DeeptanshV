@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DeeptanshV
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning game development and javascript 
-- 
-- 📫 How to reach me ... deeptansh2996@gmail.com
+- 👀 I’m interested in web development and Cloud Computing
+- 🌱 I’m currently learning web development along with Python,C++ and Linux.
+- 📫 How to reach me ... 
+--Email: deeptansh2996@gmail.com
+-- LinkedIn Profile - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
 <!---
 DeeptanshV/DeeptanshV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
