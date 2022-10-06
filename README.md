@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeeptanshV
 - 👀 I’m interested in web development and Cloud Computing
-- 🌱 I’m currently learning web development along with Python,C++ and Linux.
+- 🌱 I’m currently learning working with JavaScript and Java.
 - 📫 How to reach me ... 
 --Email: deeptansh2996@gmail.com
 -- LinkedIn Profile - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
