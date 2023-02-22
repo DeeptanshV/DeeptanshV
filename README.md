@@ -1,4 +1,4 @@
-![My Profile](https://giphy.com/embed/1C8bHHJturSx2)
+![My Profile]([https://giphy.com/embed/1C8bHHJturSx2](https://i0.wp.com/i.giphy.com/media/1C8bHHJturSx2/giphy-downsized.gif?w=770&ssl=1))
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
