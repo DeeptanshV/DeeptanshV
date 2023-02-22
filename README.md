@@ -8,7 +8,7 @@
 --Email: deeptansh2996@gmail.com
 -- LinkedIn Profile - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
-https://img.shields.io/badge/<JS>-<JavaScript>-<green>
+![](https://img.shields.io/badge/<JS>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
