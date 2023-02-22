@@ -1,4 +1,5 @@
-![My Remote Image](https://hatrabbits.com/wp-content/uploads/2017/01/tafel-1.jpg)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 👋 Hi, I’m @DeeptanshV
 - 👀 I’m interested in web development and Cloud Computing
