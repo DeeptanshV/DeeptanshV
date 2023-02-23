@@ -25,7 +25,7 @@
 <a href="https://github.com/DeeptanshV/DeeptanshV">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeeptanshV&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeeptanshV&theme=radical&type=png"/></a>
 
 ##  💻 + 🧠 Projects //
 <a href="https://deeptanshv.github.io/Stopwatch-VanillaJavaScript/">
