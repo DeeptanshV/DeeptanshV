@@ -1,4 +1,4 @@
-![My Profile](https://giphy.com/embed/1C8bHHJturSx2)
+![My Profile](https://github.com/DeeptanshV/Images/blob/main/I%20am%20Deeptanh%20Verma.jpg)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
