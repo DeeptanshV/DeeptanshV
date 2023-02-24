@@ -34,7 +34,7 @@
 
 ##  💻 Badges //
 ### HackerRank
-![My Profile](https://github.com/DeeptanshV/Images/blob/main/Screenshot%20(13).png =800x400)
+![My Profile](https://github.com/DeeptanshV/Images/blob/main/Screenshot%20(13).png)
 
 
 
