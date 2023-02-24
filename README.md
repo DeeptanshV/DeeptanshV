@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 
 
 
