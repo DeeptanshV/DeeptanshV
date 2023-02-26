@@ -34,11 +34,11 @@
 
 ##  💻 + 🧠 Projects //
 <a href="https://deeptanshv.github.io/Stopwatch-VanillaJavaScript/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeeptanshV&repo=Stopwatch-VanillaJavaScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeeptanshV&repo=Stopwatch-VanillaJavaScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
 </a>
 
 <a href="https://github.com/DeeptanshV/Random-Color-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeeptanshV&repo=Random-Color-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeeptanshV&repo=Random-Color-Generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
 </a>
 
 ##  💻 Badges //
