@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/static/v1?message=css3&logo=css3&logoColor=white&color=2bbc8a&logoColor=white&label=%20&style=plastic)
+![](https://img.shields.io/static/v1?message=css3&logo=css3&logoColor=white&color=2bbc8a&logoColor=white&style=flat)
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
