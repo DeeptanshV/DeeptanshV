@@ -2,7 +2,6 @@
 
 # Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
 - 👀 I’m interested in web development and Cloud Computing
 - 🌱 I’m currently learning working with JavaScript and Java.
 - 📫 How to reach me ... 
