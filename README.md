@@ -8,7 +8,7 @@
 --Email: deeptansh2996@gmail.com
 -- LinkedIn Profile - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
-## 🔧 Technologies & Tools 
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/JS-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeeptanshV&repo=Random-Color-Generator_&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="500" height="270" />
 </a>
 
-##  💻 Badge
+##  💻 Badges
 ### HackerRank
 ![My Profile](https://github.com/DeeptanshV/Images/blob/main/Screenshot%20(13).png)
 
