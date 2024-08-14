@@ -5,7 +5,7 @@
 - 👀 I’m interested in web development and Cloud Computing
 - 🌱 I’m currently learning working with JavaScript and Java.
 - 📫 How to reach me ... 
---Email: deeptansh2996@gmail.com
+--Email: deeptanshverma2002@gmail.com
 -- LinkedIn Profile - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
 ## 🔧 Technologies & Tools
