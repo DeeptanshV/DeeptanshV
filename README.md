@@ -8,7 +8,7 @@
 --Email: deeptanshverma2002@gmail.com
 -- LinkedIn Profile - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tool
 
 
 
